@@ -2,8 +2,9 @@
 
 
 <h1>Team D.Error</h1>
-![test](https://github.com/tower9900/team_derror/assets/151602259/ad1c5322-698e-4913-9039-1797b5aba44d.jpg)
-![test1](https://github.com/tower9900/team_derror/assets/151602259/0bd7d9c9-eed2-40c7-8786-f70789eefdd4)
+![test](https://github.com/tower9900/team_derror/assets/151602259/b8b39eb1-0128-4965-a2d9-0f2aed75493f)
+
+
 ● 이종현<br>
 ● 장고운<br>
 ● 서현기<br>
