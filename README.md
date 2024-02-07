@@ -1,11 +1,11 @@
-🛫 # 프로젝트명: TRAVEL with 🛬
+🛫 프로젝트명: TRAVEL with 🛬
 
-<h4>Team D.Error</h4>
+<h3>Team D.Error</h3>
 
-● 이종현
-● 장고운
-● 서현기
-● 김종선
+● 이종현<br>
+● 장고운<br>
+● 서현기<br>
+● 김종선<br>
 ● 임승빈
 
 
