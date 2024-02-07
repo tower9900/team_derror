@@ -1,6 +1,11 @@
 <h1>🛫 프로젝트명: TRAVEL with 🛬</h1>
 
-<h1>Team D.Error</h1>
+
+1>Team D.Error</h1>
+<h![test](https://github.com/tower9900/team_derror/assets/151602259/6d46481c-9d26-45ec-845f-824fac18fe60)
+![2024](https://github.com/tower9900/team_derror/assets/151602259/c76ddf59-dc6e-4335-9774-e8cce1871b13)
+![test1](https://github.com/tower9900/team_derror/assets/151602259/1ad0d921-a7ec-4bdd-96b0-e964638dd3d9)
+
 
 ● 이종현<br>
 ● 장고운<br>
