@@ -2,7 +2,8 @@
 
 
 <h1>Team D.Error</h1>
-![test](https://github.com/tower9900/team_derror/assets/151602259/b8b39eb1-0128-4965-a2d9-0f2aed75493f)
+
+![git](https://github.com/tower9900/team_derror/assets/151602259/db0c45f9-9b27-4e73-905e-a5ce39e286be)
 
 
 ● 이종현<br>
