@@ -2,6 +2,7 @@
 
 
 <h1>Team D.Error</h1>
+![test](https://github.com/tower9900/team_derror/assets/151602259/ad1c5322-698e-4913-9039-1797b5aba44d.jpg)
 
 ● 이종현<br>
 ● 장고운<br>
