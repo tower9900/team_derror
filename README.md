@@ -1,6 +1,6 @@
 🛫 프로젝트명: TRAVEL with 🛬
 
-<h3>Team D.Error</h3>
+<h1>Team D.Error</h1>
 
 ● 이종현<br>
 ● 장고운<br>
