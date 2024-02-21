@@ -60,6 +60,8 @@ Treavel with 는 한 번의 조회로 다양한 여행지와 공연 정보를 �
 
 #### 이벤트
 ![](readme/event.gif)
+![derror](https://github.com/tower9900/team_derror/assets/151602259/8bada9cc-e552-492b-be2c-fc10a34bb7f0)
+
 ---
 
 #### 항공
