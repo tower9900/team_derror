@@ -54,36 +54,8 @@ Treavel with 는 한 번의 조회로 다양한 여행지와 공연 정보를 �
 <br/>Database는 MySQL을 사용하였고 Model과 Database의 Mapping을 위해 mybatis를 사용하였습니다.
 ## ❤**서비스 기능 소개**
 
-#### 로그인
-![](readme/login.gif)
----
 
 #### 이벤트
 ![](readme/event.gif)
 ![derror](https://github.com/tower9900/team_derror/assets/151602259/8bada9cc-e552-492b-be2c-fc10a34bb7f0)
-
----
-
-#### 항공
-![](readme/항공조회.gif)
----
-
-#### 숙박
-![](readme/hotel.gif)
----
-
-#### 달력
-![](readme/캘린더.gif)
----
-
-#### 게시판
-![](readme/게시판.gif)
----
-
-#### 도우미
-![](readme/chatbot.gif)
----
-
-### 마이페이지
-![](readme/마이페이지.gif)
 ---
