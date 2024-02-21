@@ -54,6 +54,8 @@ Treavel with 는 한 번의 조회로 다양한 여행지와 공연 정보를 �
 <br/>Database는 MySQL을 사용하였고 Model과 Database의 Mapping을 위해 mybatis를 사용하였습니다.
 ## ❤**서비스 기능 소개**
 
+<h3>내가 맡은 파트</h3>
+<h4>이벤트 정보 조회, 페이징 구현, 이벤트 상세 정보 페이지, 일정 추가 구현</h4>
 
 #### 이벤트
 ![](readme/event.gif)
